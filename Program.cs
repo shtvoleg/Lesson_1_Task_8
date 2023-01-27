@@ -12,4 +12,4 @@ else
 
 int i;                                      // вывод результата
 for (i = 2; i <= num; i = i+2)
-    Console.Write($"{i} ");
+    Console.Write( $"{i}  " );
