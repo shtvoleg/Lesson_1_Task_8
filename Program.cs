@@ -11,5 +11,5 @@ else
     Console.WriteLine($"Результат: ");
 
 int i;                                      // вывод результата
-for (i = 2; i <= num; i = i+2)
+for (i = 2; i < num; i = i+2)
     Console.Write( $"{i}  " );
